@@ -25,6 +25,13 @@ p {
   line-height: 1.4em;
 }
 
+.jumbotron {
+  border-radius: 0px;
+  background-image: url("https://www.awn.com/sites/default/files/styles/original/public/image/featured/1031605-makoto-shinkai-shines-screening-appearance-your-name.jpg?itok=XPsGeuQe");
+  height: 150px;
+  background-size: cover;
+}
+
 .page-enter-active {
   animation: bounce-in 0.8s;
 }
